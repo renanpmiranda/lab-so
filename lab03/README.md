@@ -25,3 +25,23 @@ Renan Pires de Miranda - TIA 32248253
   4.  Envio do arquivo criado para staging area, realização do commit e do push ao repositório:
 
   ![image](https://github.com/renanpmiranda/lab-so/assets/111312320/b7243184-cbba-465b-a88f-ac69ed8a6915)
+
+  5.  Instruções para compilação e execução do código:
+     
+  - Compilação:
+    
+Use o compilador gcc para compilar o código. O código utiliza a biblioteca pthread para threads, então é necessário incluir a flag -lpthread:
+
+    gcc nome_do_arquivo.c -o nome_do_programa -lpthread
+
+  - Execução:
+
+Para executar o programa, você precisa especificar o número de threads como argumento. Por exemplo, para executar o programa com 4 threads:
+
+    ./nome_do_arquivo 4
+
+   6. Demonstração do código em funcionamento:
+
+  ![image](https://github.com/renanpmiranda/lab-so/assets/111312320/4eb541d3-8255-479e-9c1e-c2c8ecf6e577)
+
+  
