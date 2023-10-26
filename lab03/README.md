@@ -1,6 +1,7 @@
 *LABORATÓRIO DE SISTEMAS OPERACIONAIS - PTHREADS PARTE 1*
 
 Lucas Eleutério da Silva - TIA 32240597
+
 Renan Pires de Miranda - TIA 32248253
   
   1.  Execução da instância AWS e instalação do git no terminal:
