@@ -76,7 +76,7 @@ Contenção e Sobrecarga: Embora o mutex evite condições de corrida, ele intro
 
   - Conclusão:
     
-A versão sem mutex é geralmente mais rápida porque evita a sobrecarga e contenção associadas ao uso de mutex. No entanto, ela requer uma estrutura de dados adicional (o array partial_sum) e uma etapa adicional para combinar os resultados parciais.
+Muito embora não tenha havido divergência entre os resultados, a versão sem mutex é geralmente mais rápida porque evita a sobrecarga e contenção associadas ao uso de mutex. No entanto, ela requer uma estrutura de dados adicional (o array partial_sum) e uma etapa adicional para combinar os resultados parciais.
 
 
     
