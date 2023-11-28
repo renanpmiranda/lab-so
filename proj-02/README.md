@@ -21,7 +21,7 @@ Renan Pires de Miranda - TIA 32248253
   ![image](https://github.com/renanpmiranda/lab-so/assets/111312320/6f7fe275-d346-4725-a1e1-3739c218e4ea)
   ![image](https://github.com/renanpmiranda/lab-so/assets/111312320/302b82f8-fa65-4c2e-8d8a-f02d6ba910b9)
 
-  4.  Envio do arquivos criado para staging area, realização do commit e push ao repositório:
+  4.  Envio do arquivo criado para staging area, realização do commit e push ao repositório:
 
   ![image](https://github.com/renanpmiranda/lab-so/assets/111312320/f911d596-5b45-4548-a726-3f1cf6ae7957)
 
@@ -35,7 +35,7 @@ Use o compilador gcc para compilar o código, conforme o exemplo a seguir:
 
   - Execução:
 
-Antes de executar o programa, certifique-se de que a pasta 'input' presente neste repositório esteja no mesmo diretório executável. Na sequência, basta executar o comando a seguir:
+Antes de executar o programa, certifique-se de que a pasta 'input' presente neste repositório esteja no mesmo diretório executável do arquivo 'main.c'. Na sequência, basta executar o comando a seguir:
 
     ./nome_do_arquivo
 
